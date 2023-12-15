@@ -1,0 +1,15 @@
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\obj\Debug\net8.0\Сertification.GeneratedMSBuildEditorConfig.editorconfig
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\obj\Debug\net8.0\Сertification.AssemblyInfoInputs.cache
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\obj\Debug\net8.0\Сertification.AssemblyInfo.cs
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\obj\Debug\net8.0\Сertification.csproj.CoreCompileInputs.cache
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\obj\Debug\net8.0\Сertification.sourcelink.json
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\bin\Debug\net8.0\Сertification.exe
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\bin\Debug\net8.0\Сertification.deps.json
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\bin\Debug\net8.0\Сertification.runtimeconfig.json
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\bin\Debug\net8.0\Сertification.dll
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\bin\Debug\net8.0\Сertification.pdb
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\obj\Debug\net8.0\Сertification.dll
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\obj\Debug\net8.0\refint\Сertification.dll
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\obj\Debug\net8.0\Сertification.pdb
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\obj\Debug\net8.0\Сertification.genruntimeconfig.cache
+D:\Andrew\GB\CS\GeekBrains\C_Sharp\Сertification\obj\Debug\net8.0\ref\Сertification.dll
